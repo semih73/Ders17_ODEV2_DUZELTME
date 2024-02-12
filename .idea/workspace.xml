@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4b712b4-d2cc-4cf0-a062-8fddec2c7220" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreateTableMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DeleteDataMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RemoteDbCrud.java" afterDir="false" />
+    <list default="true" id="a4b712b4-d2cc-4cf0-a062-8fddec2c7220" name="Changes" comment="Ders17 odev bölüm2 remote mysql için">
+      <change afterPath="$PROJECT_DIR$/src/main/java/UpdateTableMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateTableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CreateTableMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DeleteDataMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeleteDataMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RemoteDbCrud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RemoteDbCrud.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bwRqdVeVJlx4xTCQVaRI3HO9WL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -65,6 +61,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-98297cd8" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +77,20 @@
       <option name="presentableId" value="Default" />
       <updated>1707124349673</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ders17 odev bölüm2 remote mysql için">
+      <option name="closed" value="true" />
+      <created>1707136460981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707136460981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ders17 odev bölüm2 remote mysql için" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ders17 odev bölüm2 remote mysql için" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

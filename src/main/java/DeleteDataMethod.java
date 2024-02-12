@@ -9,9 +9,9 @@ import java.sql.*;
 
 public class DeleteDataMethod {
     public void VeriSil() {
-        String url = "jdbc:mysql:sql11.freemysqlhosting.net:3306/sql11678198";
-        String kullaniciadi = "sql11678198";
-        String sifre = "wVJ6TIBGWB";
+        String url = "jdbc:mysql://sql11.freemysqlhosting.net:3306/sql11683450";
+        String kullaniciadi = "sql11683450";
+        String sifre = "zJJDHznSQU";
 
         // JDBI nesnesinin oluşturulması ve bağlantının alınması
         Jdbi jdbi = Jdbi.create(url, kullaniciadi, sifre);
